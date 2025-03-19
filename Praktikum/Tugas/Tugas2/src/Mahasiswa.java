@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Mahasiswa {
-    String namaValid = "Naufal Muammar";
-    String nimValid = "202410370110027";
+    String namaValid = "Santun";
+    String nimValid = "202410370110429";
     String nama;
     String nim;
     Scanner scanner = new Scanner(System.in);

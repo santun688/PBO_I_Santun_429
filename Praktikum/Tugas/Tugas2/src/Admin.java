@@ -2,8 +2,8 @@ import java.util.Scanner;
 public class Admin {
     String username;
     String password;
-    String usnValid = "Admin027";
-    String passValid = "password027";
+    String usnValid = "Admin429";
+    String passValid = "password429";
     Scanner scanner = new Scanner(System.in);
 
     void login(){
