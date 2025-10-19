@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b31f62-3161-4750-b98b-b8893558ff0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Codelab/Modul 5/code lab 1_modul 5/src/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codelab/Modul 5/code lab 1_modul 5/src/Manajemenstok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Codelab/Modul 5/code lab 1_modul 5/src/StoktidakcukupException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 2/tugas_1_modul2/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 2/tugas_1_modul2/src/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 2/tugas_1_modul2/src/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/actions/AdminActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/actions/MahasiswaActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/main/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/users/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/users/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas modul 4/Tugas_1_modul 4/src/com/pratikum/users/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/actions/AdminActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/actions/MahasiswaActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/data/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/main/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/users/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/users/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas_1_modul 5/src/com/praktikum/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/cde lab 1 modul 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/app/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/perpustakaan/Anggota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/perpustakaan/Buku.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/perpustakaan/Fiksi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/perpustakaan/NonFiksi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 4/cde lab 1 modul 4/src/perpustakaan/Peminnjaman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul 5/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/Codelab_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul1/Codelab_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/cde lab 1 modul 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/cde lab 1 modul 4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/modul3 tugas 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/src/com/example/Fauna/Hewan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/src/com/example/Fauna/Ular.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Codelab/Modul3/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/Tugas2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/src/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/src/LoginSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas2/src/Mahasiswa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/modul3 tugas 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/src/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/src/LoginSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/src/Mahasiswa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas3/src/User.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xUrlzaPG782f7RmVKJgRgBFjkU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b31f62-3161-4750-b98b-b8893558ff0c" name="Changes" comment="" />
+      <created>1748003648896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748003648896</updated>
+    </task>
+    <servers />
+  </component>
+</project>
